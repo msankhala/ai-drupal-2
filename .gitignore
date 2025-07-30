@@ -123,3 +123,6 @@ deployment_identifier
 
 # Ignore node_modules in repo rooot.
 node_modules
+
+# Ignore .ddev/.env files.
+.ddev/.env
